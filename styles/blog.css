@@ -5,3 +5,11 @@ div{
     padding: 10px;
     margin: 5px;
 }
+.blog{
+    background-color: teal;
+    border: 10px solid black;
+    border-radius: 10px;
+    box-shadow: 10px 10px 15px 10px tomato;
+    margin: 5px;
+    padding: 5px;
+}
